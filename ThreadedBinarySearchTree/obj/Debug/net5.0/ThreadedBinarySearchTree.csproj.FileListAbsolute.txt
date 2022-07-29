@@ -1,0 +1,16 @@
+C:\Users\ofek2\Desktop\OS3\work3\ThreadedBinarySearchTree\bin\Debug\net5.0\ThreadedBinarySearchTree.exe
+C:\Users\ofek2\Desktop\OS3\work3\ThreadedBinarySearchTree\bin\Debug\net5.0\ThreadedBinarySearchTree.deps.json
+C:\Users\ofek2\Desktop\OS3\work3\ThreadedBinarySearchTree\bin\Debug\net5.0\ThreadedBinarySearchTree.runtimeconfig.json
+C:\Users\ofek2\Desktop\OS3\work3\ThreadedBinarySearchTree\bin\Debug\net5.0\ThreadedBinarySearchTree.runtimeconfig.dev.json
+C:\Users\ofek2\Desktop\OS3\work3\ThreadedBinarySearchTree\bin\Debug\net5.0\ThreadedBinarySearchTree.dll
+C:\Users\ofek2\Desktop\OS3\work3\ThreadedBinarySearchTree\bin\Debug\net5.0\ref\ThreadedBinarySearchTree.dll
+C:\Users\ofek2\Desktop\OS3\work3\ThreadedBinarySearchTree\bin\Debug\net5.0\ThreadedBinarySearchTree.pdb
+C:\Users\ofek2\Desktop\OS3\work3\ThreadedBinarySearchTree\obj\Debug\net5.0\ThreadedBinarySearchTree.csproj.AssemblyReference.cache
+C:\Users\ofek2\Desktop\OS3\work3\ThreadedBinarySearchTree\obj\Debug\net5.0\ThreadedBinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofek2\Desktop\OS3\work3\ThreadedBinarySearchTree\obj\Debug\net5.0\ThreadedBinarySearchTree.AssemblyInfoInputs.cache
+C:\Users\ofek2\Desktop\OS3\work3\ThreadedBinarySearchTree\obj\Debug\net5.0\ThreadedBinarySearchTree.AssemblyInfo.cs
+C:\Users\ofek2\Desktop\OS3\work3\ThreadedBinarySearchTree\obj\Debug\net5.0\ThreadedBinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\ofek2\Desktop\OS3\work3\ThreadedBinarySearchTree\obj\Debug\net5.0\ThreadedBinarySearchTree.dll
+C:\Users\ofek2\Desktop\OS3\work3\ThreadedBinarySearchTree\obj\Debug\net5.0\ref\ThreadedBinarySearchTree.dll
+C:\Users\ofek2\Desktop\OS3\work3\ThreadedBinarySearchTree\obj\Debug\net5.0\ThreadedBinarySearchTree.pdb
+C:\Users\ofek2\Desktop\OS3\work3\ThreadedBinarySearchTree\obj\Debug\net5.0\ThreadedBinarySearchTree.genruntimeconfig.cache

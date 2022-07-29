@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wGuD3OOdstdnnd4BvHp+pqhjlPvouPj+jAme3PbRKSUO3Rxpj8O0Wyv/EzR6mQjFxpyYdECsOxfNVcznGO45Vw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ofek2\\Desktop\\OS3\\work3\\ThreadedBinarySearchTree\\ThreadedBinarySearchTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ofek2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

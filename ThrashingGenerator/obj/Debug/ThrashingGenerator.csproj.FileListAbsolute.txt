@@ -1,0 +1,10 @@
+C:\Users\ofek2\Desktop\work4\ThrashingGenerator\bin\Debug\ThrashingGenerator.exe.config
+C:\Users\ofek2\Desktop\work4\ThrashingGenerator\bin\Debug\ThrashingGenerator.exe
+C:\Users\ofek2\Desktop\work4\ThrashingGenerator\bin\Debug\ThrashingGenerator.pdb
+C:\Users\ofek2\Desktop\work4\ThrashingGenerator\obj\Debug\ThrashingGenerator.csproj.AssemblyReference.cache
+C:\Users\ofek2\Desktop\work4\ThrashingGenerator\obj\Debug\ThrashingGenerator.Form1.resources
+C:\Users\ofek2\Desktop\work4\ThrashingGenerator\obj\Debug\ThrashingGenerator.Properties.Resources.resources
+C:\Users\ofek2\Desktop\work4\ThrashingGenerator\obj\Debug\ThrashingGenerator.csproj.GenerateResource.cache
+C:\Users\ofek2\Desktop\work4\ThrashingGenerator\obj\Debug\ThrashingGenerator.csproj.CoreCompileInputs.cache
+C:\Users\ofek2\Desktop\work4\ThrashingGenerator\obj\Debug\ThrashingGenerator.exe
+C:\Users\ofek2\Desktop\work4\ThrashingGenerator\obj\Debug\ThrashingGenerator.pdb

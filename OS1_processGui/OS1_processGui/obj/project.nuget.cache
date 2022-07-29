@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wbr9dD8eEmFtdi17/Oji0uW0JUyIUPvqg5MN/2QSPz6412GMsX8ZUyWg53OUHvgvzdfWX2YUw9vH33SF/hJoZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ofek2\\Desktop\\לימודים\\שנה ב\\סמסטר ב\\מערכות הפעלה\\Work1\\OS1_processGui\\OS1_processGui\\OS1_processGui.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ofek2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

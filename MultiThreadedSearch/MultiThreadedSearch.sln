@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThreadedSearch", "MultiThreadedSearch.csproj", "{D342F7D8-8C98-4B84-9919-5CE079E31B32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D342F7D8-8C98-4B84-9919-5CE079E31B32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D342F7D8-8C98-4B84-9919-5CE079E31B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D342F7D8-8C98-4B84-9919-5CE079E31B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D342F7D8-8C98-4B84-9919-5CE079E31B32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B3449F3-682B-4420-9814-0D19CD9D9841}
+	EndGlobalSection
+EndGlobal

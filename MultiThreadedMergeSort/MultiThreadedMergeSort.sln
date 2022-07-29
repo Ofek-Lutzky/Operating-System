@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThreadedMergeSort", "MultiThreadedMergeSort.csproj", "{6B3559D8-5AEA-4402-A36F-DB19C6E14670}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B3559D8-5AEA-4402-A36F-DB19C6E14670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B3559D8-5AEA-4402-A36F-DB19C6E14670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B3559D8-5AEA-4402-A36F-DB19C6E14670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B3559D8-5AEA-4402-A36F-DB19C6E14670}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F1B96B7-A016-4F94-903F-0710ED5F6F5E}
+	EndGlobalSection
+EndGlobal

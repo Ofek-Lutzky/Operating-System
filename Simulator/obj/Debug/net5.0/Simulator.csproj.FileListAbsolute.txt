@@ -1,0 +1,48 @@
+C:\Users\ofek2\Desktop\OS3\work3\Simulator\obj\Debug\net5.0\Simulator.csproj.AssemblyReference.cache
+C:\Users\ofek2\Desktop\OS3\work3\Simulator\obj\Debug\net5.0\Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofek2\Desktop\OS3\work3\Simulator\obj\Debug\net5.0\Simulator.AssemblyInfoInputs.cache
+C:\Users\ofek2\Desktop\OS3\work3\Simulator\obj\Debug\net5.0\Simulator.AssemblyInfo.cs
+C:\Users\ofek2\Desktop\OS3\work3\Simulator\obj\Debug\net5.0\Simulator.csproj.CoreCompileInputs.cache
+C:\Users\ofek2\Desktop\OS3\work3\Simulator\bin\Debug\net5.0\Simulator.exe
+C:\Users\ofek2\Desktop\OS3\work3\Simulator\bin\Debug\net5.0\Simulator.deps.json
+C:\Users\ofek2\Desktop\OS3\work3\Simulator\bin\Debug\net5.0\Simulator.runtimeconfig.json
+C:\Users\ofek2\Desktop\OS3\work3\Simulator\bin\Debug\net5.0\Simulator.runtimeconfig.dev.json
+C:\Users\ofek2\Desktop\OS3\work3\Simulator\bin\Debug\net5.0\Simulator.dll
+C:\Users\ofek2\Desktop\OS3\work3\Simulator\bin\Debug\net5.0\ref\Simulator.dll
+C:\Users\ofek2\Desktop\OS3\work3\Simulator\bin\Debug\net5.0\Simulator.pdb
+C:\Users\ofek2\Desktop\OS3\work3\Simulator\obj\Debug\net5.0\Simulator.dll
+C:\Users\ofek2\Desktop\OS3\work3\Simulator\obj\Debug\net5.0\ref\Simulator.dll
+C:\Users\ofek2\Desktop\OS3\work3\Simulator\obj\Debug\net5.0\Simulator.pdb
+C:\Users\ofek2\Desktop\OS3\work3\Simulator\obj\Debug\net5.0\Simulator.genruntimeconfig.cache
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work3\work3\Simulator\bin\Debug\net5.0\Simulator.exe
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work3\work3\Simulator\bin\Debug\net5.0\Simulator.deps.json
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work3\work3\Simulator\bin\Debug\net5.0\Simulator.runtimeconfig.json
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work3\work3\Simulator\bin\Debug\net5.0\Simulator.runtimeconfig.dev.json
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work3\work3\Simulator\bin\Debug\net5.0\Simulator.dll
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work3\work3\Simulator\bin\Debug\net5.0\ref\Simulator.dll
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work3\work3\Simulator\bin\Debug\net5.0\Simulator.pdb
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work3\work3\Simulator\obj\Debug\net5.0\Simulator.csproj.AssemblyReference.cache
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work3\work3\Simulator\obj\Debug\net5.0\Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work3\work3\Simulator\obj\Debug\net5.0\Simulator.AssemblyInfoInputs.cache
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work3\work3\Simulator\obj\Debug\net5.0\Simulator.AssemblyInfo.cs
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work3\work3\Simulator\obj\Debug\net5.0\Simulator.csproj.CoreCompileInputs.cache
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work3\work3\Simulator\obj\Debug\net5.0\Simulator.dll
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work3\work3\Simulator\obj\Debug\net5.0\ref\Simulator.dll
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work3\work3\Simulator\obj\Debug\net5.0\Simulator.pdb
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work3\work3\Simulator\obj\Debug\net5.0\Simulator.genruntimeconfig.cache
+C:\Users\ofek2\Desktop\Work3\work3\Simulator\bin\Debug\net5.0\Simulator.exe
+C:\Users\ofek2\Desktop\Work3\work3\Simulator\bin\Debug\net5.0\Simulator.deps.json
+C:\Users\ofek2\Desktop\Work3\work3\Simulator\bin\Debug\net5.0\Simulator.runtimeconfig.json
+C:\Users\ofek2\Desktop\Work3\work3\Simulator\bin\Debug\net5.0\Simulator.runtimeconfig.dev.json
+C:\Users\ofek2\Desktop\Work3\work3\Simulator\bin\Debug\net5.0\Simulator.dll
+C:\Users\ofek2\Desktop\Work3\work3\Simulator\bin\Debug\net5.0\ref\Simulator.dll
+C:\Users\ofek2\Desktop\Work3\work3\Simulator\bin\Debug\net5.0\Simulator.pdb
+C:\Users\ofek2\Desktop\Work3\work3\Simulator\obj\Debug\net5.0\Simulator.csproj.AssemblyReference.cache
+C:\Users\ofek2\Desktop\Work3\work3\Simulator\obj\Debug\net5.0\Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofek2\Desktop\Work3\work3\Simulator\obj\Debug\net5.0\Simulator.AssemblyInfoInputs.cache
+C:\Users\ofek2\Desktop\Work3\work3\Simulator\obj\Debug\net5.0\Simulator.AssemblyInfo.cs
+C:\Users\ofek2\Desktop\Work3\work3\Simulator\obj\Debug\net5.0\Simulator.csproj.CoreCompileInputs.cache
+C:\Users\ofek2\Desktop\Work3\work3\Simulator\obj\Debug\net5.0\Simulator.dll
+C:\Users\ofek2\Desktop\Work3\work3\Simulator\obj\Debug\net5.0\ref\Simulator.dll
+C:\Users\ofek2\Desktop\Work3\work3\Simulator\obj\Debug\net5.0\Simulator.pdb
+C:\Users\ofek2\Desktop\Work3\work3\Simulator\obj\Debug\net5.0\Simulator.genruntimeconfig.cache

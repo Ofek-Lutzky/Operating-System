@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wUecjnOSbjNNh9cFvSTADAYYySNAR8HfbDsZ3bTboxg1hQmsEcK7Xe3wgd7plqoLcv3mZnW5t2CAZzTDBP2iuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ofek2\\Desktop\\לימודים\\שנה ב\\סמסטר ב\\מערכות הפעלה\\Work3\\work3\\MultiThreadedMergeSort\\MultiThreadedMergeSort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ofek2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

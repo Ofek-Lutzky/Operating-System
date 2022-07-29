@@ -1,0 +1,20 @@
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work2\DDoSAttack\bin\Debug\DDoSAttack.exe.config
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work2\DDoSAttack\bin\Debug\DDoSAttack.exe
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work2\DDoSAttack\bin\Debug\DDoSAttack.pdb
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work2\DDoSAttack\obj\Debug\DDoSAttack.csproj.AssemblyReference.cache
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work2\DDoSAttack\obj\Debug\DDoSAttack.FormWindow.resources
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work2\DDoSAttack\obj\Debug\DDoSAttack.Properties.Resources.resources
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work2\DDoSAttack\obj\Debug\DDoSAttack.csproj.GenerateResource.cache
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work2\DDoSAttack\obj\Debug\DDoSAttack.csproj.CoreCompileInputs.cache
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work2\DDoSAttack\obj\Debug\DDoSAttack.exe
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work2\DDoSAttack\obj\Debug\DDoSAttack.pdb
+C:\Users\ofek2\Desktop\Work2\DDoSAttack\bin\Debug\DDoSAttack.exe.config
+C:\Users\ofek2\Desktop\Work2\DDoSAttack\bin\Debug\DDoSAttack.exe
+C:\Users\ofek2\Desktop\Work2\DDoSAttack\bin\Debug\DDoSAttack.pdb
+C:\Users\ofek2\Desktop\Work2\DDoSAttack\obj\Debug\DDoSAttack.csproj.AssemblyReference.cache
+C:\Users\ofek2\Desktop\Work2\DDoSAttack\obj\Debug\DDoSAttack.FormWindow.resources
+C:\Users\ofek2\Desktop\Work2\DDoSAttack\obj\Debug\DDoSAttack.Properties.Resources.resources
+C:\Users\ofek2\Desktop\Work2\DDoSAttack\obj\Debug\DDoSAttack.csproj.GenerateResource.cache
+C:\Users\ofek2\Desktop\Work2\DDoSAttack\obj\Debug\DDoSAttack.csproj.CoreCompileInputs.cache
+C:\Users\ofek2\Desktop\Work2\DDoSAttack\obj\Debug\DDoSAttack.exe
+C:\Users\ofek2\Desktop\Work2\DDoSAttack\obj\Debug\DDoSAttack.pdb

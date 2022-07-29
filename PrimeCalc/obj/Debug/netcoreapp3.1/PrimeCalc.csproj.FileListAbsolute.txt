@@ -1,0 +1,28 @@
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work2\PrimeCalc\bin\Debug\netcoreapp3.1\PrimeCalc.exe
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work2\PrimeCalc\bin\Debug\netcoreapp3.1\PrimeCalc.deps.json
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work2\PrimeCalc\bin\Debug\netcoreapp3.1\PrimeCalc.runtimeconfig.json
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work2\PrimeCalc\bin\Debug\netcoreapp3.1\PrimeCalc.runtimeconfig.dev.json
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work2\PrimeCalc\bin\Debug\netcoreapp3.1\PrimeCalc.dll
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work2\PrimeCalc\bin\Debug\netcoreapp3.1\PrimeCalc.pdb
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work2\PrimeCalc\obj\Debug\netcoreapp3.1\PrimeCalc.csproj.AssemblyReference.cache
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work2\PrimeCalc\obj\Debug\netcoreapp3.1\PrimeCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work2\PrimeCalc\obj\Debug\netcoreapp3.1\PrimeCalc.AssemblyInfoInputs.cache
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work2\PrimeCalc\obj\Debug\netcoreapp3.1\PrimeCalc.AssemblyInfo.cs
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work2\PrimeCalc\obj\Debug\netcoreapp3.1\PrimeCalc.csproj.CoreCompileInputs.cache
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work2\PrimeCalc\obj\Debug\netcoreapp3.1\PrimeCalc.dll
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work2\PrimeCalc\obj\Debug\netcoreapp3.1\PrimeCalc.pdb
+C:\Users\ofek2\Desktop\לימודים\שנה ב\סמסטר ב\מערכות הפעלה\Work2\PrimeCalc\obj\Debug\netcoreapp3.1\PrimeCalc.genruntimeconfig.cache
+C:\Users\ofek2\Desktop\Work2\PrimeCalc\bin\Debug\netcoreapp3.1\PrimeCalc.exe
+C:\Users\ofek2\Desktop\Work2\PrimeCalc\bin\Debug\netcoreapp3.1\PrimeCalc.deps.json
+C:\Users\ofek2\Desktop\Work2\PrimeCalc\bin\Debug\netcoreapp3.1\PrimeCalc.runtimeconfig.json
+C:\Users\ofek2\Desktop\Work2\PrimeCalc\bin\Debug\netcoreapp3.1\PrimeCalc.runtimeconfig.dev.json
+C:\Users\ofek2\Desktop\Work2\PrimeCalc\bin\Debug\netcoreapp3.1\PrimeCalc.dll
+C:\Users\ofek2\Desktop\Work2\PrimeCalc\bin\Debug\netcoreapp3.1\PrimeCalc.pdb
+C:\Users\ofek2\Desktop\Work2\PrimeCalc\obj\Debug\netcoreapp3.1\PrimeCalc.csproj.AssemblyReference.cache
+C:\Users\ofek2\Desktop\Work2\PrimeCalc\obj\Debug\netcoreapp3.1\PrimeCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofek2\Desktop\Work2\PrimeCalc\obj\Debug\netcoreapp3.1\PrimeCalc.AssemblyInfoInputs.cache
+C:\Users\ofek2\Desktop\Work2\PrimeCalc\obj\Debug\netcoreapp3.1\PrimeCalc.AssemblyInfo.cs
+C:\Users\ofek2\Desktop\Work2\PrimeCalc\obj\Debug\netcoreapp3.1\PrimeCalc.csproj.CoreCompileInputs.cache
+C:\Users\ofek2\Desktop\Work2\PrimeCalc\obj\Debug\netcoreapp3.1\PrimeCalc.dll
+C:\Users\ofek2\Desktop\Work2\PrimeCalc\obj\Debug\netcoreapp3.1\PrimeCalc.pdb
+C:\Users\ofek2\Desktop\Work2\PrimeCalc\obj\Debug\netcoreapp3.1\PrimeCalc.genruntimeconfig.cache

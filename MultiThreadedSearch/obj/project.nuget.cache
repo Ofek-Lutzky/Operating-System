@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w0VWIJP3a8IGgG6fgsEUMDa9EdhWxAiOpoAUZfs5hKXBAb4QPu6Yc6s2mh3L1YucS2f+WosubErEFehCO4umOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ofek2\\Desktop\\Work2\\MultiThreadedSearch\\MultiThreadedSearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ofek2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

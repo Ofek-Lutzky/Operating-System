@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4UqkV2+CJG93njxkvLBagcg5ofCTNoqTwWSUFugReu/AgTZgMePKwfIMfC0kb9deHViNoM84P1tYGFildv/z/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ofek2\\Desktop\\Work2\\PrimeCalc\\PrimeCalc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ofek2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

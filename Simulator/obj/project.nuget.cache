@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Ua30eH3s9N+sPJt1/9sC5I9vRVIZa8UMHAvP9wzPRCa9nqa6AoC8LSccrDdKR/qg+/givCGU8e0srXcrEyx0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ofek2\\Desktop\\Work3\\work3\\Simulator\\Simulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ofek2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

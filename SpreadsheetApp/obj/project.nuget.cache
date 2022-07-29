@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SIkC/t1P0m45cEZCZ7SvXQ2ShJXa2pGOVvsyZ/BFova6c59yHgz8lIS9QDcQodXmxSH6RUdILOPKg1qMhpf+DA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ofek2\\Desktop\\לימודים\\שנה ב\\סמסטר ב\\מערכות הפעלה\\Work3\\work3\\SpreadsheetApp\\SpreadsheetApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ofek2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

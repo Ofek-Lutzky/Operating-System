@@ -1,0 +1,14 @@
+C:\Users\ofek2\Desktop\Work2\MultiThreadedSearch\bin\Release\netcoreapp3.1\MultiThreadedSearch.exe
+C:\Users\ofek2\Desktop\Work2\MultiThreadedSearch\bin\Release\netcoreapp3.1\MultiThreadedSearch.deps.json
+C:\Users\ofek2\Desktop\Work2\MultiThreadedSearch\bin\Release\netcoreapp3.1\MultiThreadedSearch.runtimeconfig.json
+C:\Users\ofek2\Desktop\Work2\MultiThreadedSearch\bin\Release\netcoreapp3.1\MultiThreadedSearch.runtimeconfig.dev.json
+C:\Users\ofek2\Desktop\Work2\MultiThreadedSearch\bin\Release\netcoreapp3.1\MultiThreadedSearch.dll
+C:\Users\ofek2\Desktop\Work2\MultiThreadedSearch\bin\Release\netcoreapp3.1\MultiThreadedSearch.pdb
+C:\Users\ofek2\Desktop\Work2\MultiThreadedSearch\obj\Release\netcoreapp3.1\MultiThreadedSearch.csproj.AssemblyReference.cache
+C:\Users\ofek2\Desktop\Work2\MultiThreadedSearch\obj\Release\netcoreapp3.1\MultiThreadedSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofek2\Desktop\Work2\MultiThreadedSearch\obj\Release\netcoreapp3.1\MultiThreadedSearch.AssemblyInfoInputs.cache
+C:\Users\ofek2\Desktop\Work2\MultiThreadedSearch\obj\Release\netcoreapp3.1\MultiThreadedSearch.AssemblyInfo.cs
+C:\Users\ofek2\Desktop\Work2\MultiThreadedSearch\obj\Release\netcoreapp3.1\MultiThreadedSearch.csproj.CoreCompileInputs.cache
+C:\Users\ofek2\Desktop\Work2\MultiThreadedSearch\obj\Release\netcoreapp3.1\MultiThreadedSearch.dll
+C:\Users\ofek2\Desktop\Work2\MultiThreadedSearch\obj\Release\netcoreapp3.1\MultiThreadedSearch.pdb
+C:\Users\ofek2\Desktop\Work2\MultiThreadedSearch\obj\Release\netcoreapp3.1\MultiThreadedSearch.genruntimeconfig.cache

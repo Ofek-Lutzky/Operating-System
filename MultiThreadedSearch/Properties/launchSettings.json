@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MultiThreadedSearch": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\ofek2\\Desktop\\Work2\\MultiThreadedSearch\\bin\\Debug\\netcoreapp3.1\\check.txt\" \"ln\" \"10\" \"1\""
+    }
+  }
+}

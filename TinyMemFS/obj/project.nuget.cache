@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vJrPX5hb4rFZ2Ltgo3nth9/ZUV2sRhSCMUt0asKF0dwc6+oMiOe72LlxDVxeqt9eZCgHEXEEpvDHOtb7mybukA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ofek2\\Desktop\\לימודים\\שנה ב\\סמסטר ב\\מערכות הפעלה\\work4\\TinyMemFS\\TinyMemFS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ofek2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
